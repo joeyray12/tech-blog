@@ -1,0 +1,17 @@
+[
+    {
+        "contents": "Great post!",
+        "user_id": "3",
+        "post_id": "1"
+    },
+    {
+        "contents": "I totally agree",
+        "user_id": "2",
+        "post_id": "2"
+    },
+    {
+        "contents": "Wow great insight!",
+        "user_id": "1",
+        "post_id": "3"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Welcome to the blog!",
+        "contents": "Feel free to post your thoughts to the dashboard",
+        "user_id": "1"
+    },
+    {
+        "title": "Favorite Project?",
+        "contents": "Which project that you've worked on has been your favorite so far?",
+        "user_id": "2"
+    },
+    {
+        "title": "Plans Post Bootcamp",
+        "contents": "What field are you most interested in working in with coding?",
+        "user_id": "3"
+    }
+]
